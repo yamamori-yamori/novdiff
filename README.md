@@ -11,7 +11,7 @@
 
 ## 使い方
 
-1. releasesからzipをダウンロードして解凍。`novdiff.html` をブラウザで開く（Chrome / Edge / Firefox 推奨）
+1. [こちら](https://github.com/yamamori-yamori/novdiff/raw/refs/heads/main/novdiff.zip)からzipをダウンロードして解凍。`novdiff.html` をブラウザで開く（Chrome / Edge / Firefox 推奨）
 2. 左側に古いテキストの `.txt` をドラッグ＆ドロップ
 3. 右側に新しいテキストの `.txt` をドラッグ＆ドロップ
 4. 両方揃うと自動で差分が色付き表示される
